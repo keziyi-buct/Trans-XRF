@@ -7,3 +7,5 @@
 4.If you need to run the code, you can run the example.py file directly. However, for scholars who are using this file library for the first time, the probability is that a reminder of the missing necessary software libraries will appear. You need to follow the prompts to install all the necessary libraries. Subsequently, you can see the training process printed out under the terminal interface. It is worth noting that if you want to run your own dataset, you need to change the file path of the Dataload.py code in the Dataload folder and check that the data is structured correctly.
 
 5.For the transformer model it is even easier to use, you can start training the model by running the TableVitRun.py file directly from the folder. Again, if you get warnings and errors about missing libraries, you will need to install the appropriate libraries first.
+
+6.We have provided the origin files for this experiment in the origin folder, which contains not only the images themselves, but also the tables. The tables store all the data sets relevant to this experiment. These datasets can be used for secondary purposes or as a reference for future research.
