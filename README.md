@@ -5,4 +5,5 @@
 3.Firstly the first one is the OpenSA folder, within this folder there are some folders for the regression task and the classical models for the classification task are concentrated in the folder named Classification. In this folder are included the classic classification models CNN, RF, SVM. the CNN.py file contains the code for CNN model training, and the other concentration of classic neural network models, all stored in the ClassicCls.py file.
 
 4.If you need to run the code, you can run the example.py file directly. However, for scholars who are using this file library for the first time, the probability is that a reminder of the missing necessary software libraries will appear. You need to follow the prompts to install all the necessary libraries. Subsequently, you can see the training process printed out under the terminal interface. It is worth noting that if you want to run your own dataset, you need to change the file path of the Dataload.py code in the Dataload folder and check that the data is structured correctly.
-5.
+
+5.For the transformer model it is even easier to use, you can start training the model by running the TableVitRun.py file directly from the folder. Again, if you get warnings and errors about missing libraries, you will need to install the appropriate libraries first.
